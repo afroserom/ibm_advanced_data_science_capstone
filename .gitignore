@@ -1,0 +1,8 @@
+# data folder
+data/
+
+# kaggle key
+kaggle.json
+
+# ipynb checkpoints
+.ipynb_checkpoints
