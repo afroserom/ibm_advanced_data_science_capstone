@@ -5,7 +5,7 @@ DATASET_VALIDATION_FILENAME="dataset_validation.parquet"
 PREPROCESSOR_FILENAME=f"preprocessor_{ETL_VERSION}.pkl"
 BEST_ESTIMATOR_FILENAME=f"best_estimator_{ETL_VERSION}.pkl"
 TRAINED_BEST_ESTIMATOR_FILENAME=f"trained_best_estimator_{ETL_VERSION}.pkl"
-MODEL_FILENAME=f"model_{MODEL_VERSION}.pkl"
+MODEL_FILENAME=f"model.pkl"
 
 class color:
     PURPLE = '\033[95m'
